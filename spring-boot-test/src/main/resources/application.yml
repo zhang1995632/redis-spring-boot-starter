@@ -1,0 +1,5 @@
+server:
+  port: 4081
+  hello:
+    aa: 12
+    bb: 23
