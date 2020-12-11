@@ -1,0 +1,11 @@
+syntax = "proto2";
+option java_package = "com.cq.im.probuf";
+option java_outer_classname = "User";
+
+
+message UserLoad{
+    optional int32 id = 1;
+    optional string name = 2;
+
+}
+
